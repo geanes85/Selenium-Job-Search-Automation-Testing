@@ -15,17 +15,12 @@ This project demonstrates a basic automated job search test using Selenium WebDr
 ## How to Run the Test
 
 1. Clone this repository:
-   ```bash
    git clone https://github.com/geanes85/Selenium-Job-Search-Automation-Testing.git
-   ```
 2. Install the dependencies:
-  ```bash
    pip install -r requirements.txt
-```
 3. Run the test:
-  ```bash
    python tests/test_job_search.py
-   ```
+
 # What It Does
 -Opens the Indeed homepage.
 -Enters "Junior Python Developer" as the job title and "Remote" as the location.
