@@ -7,9 +7,9 @@ This project demonstrates a basic automated job search test using Selenium WebDr
 
 ## Project Structure
 
-- **tests/**: Contains the test script to run the job search automation.
-- **pages/**: Contains the Page Object Model for the Job Search page.
-- **utils/**: Contains the WebDriver setup and other utilities.
+- **test_job_search.py**: Contains the test script to run the job search automation.
+- **job_search_page.py**: Contains the Page Object Model for the Job Search page.
+- **driver_setup.py**: Contains the WebDriver setup and other utilities.
 - **requirements.txt**: Dependencies required to run the project.
 
 ## How to Run the Test
